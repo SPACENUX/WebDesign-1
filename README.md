@@ -1,2 +1,2 @@
-# Web-Design-1
+# WebDesign-1
 Web Design Project Tutorial
